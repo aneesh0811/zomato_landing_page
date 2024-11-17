@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 #zomato should be typed
+hello and hi
+
 
                                                                                                         
-=======
 
->>>>>>> origin/master
